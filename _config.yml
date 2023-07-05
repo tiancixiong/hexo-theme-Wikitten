@@ -16,11 +16,11 @@ customize:
     profile:
         enabled: false # Whether to show profile bar
         avatar: # css/images/avatar.png
-        gravatar: zth_9451@qq.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: zthxxx
+        gravatar: support@xiongtianci.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+        author: 木浅
         author_title: Designer & Programmer
-        location: Chengdu, China
-        follow: https://github.com/zthxxx/
+        location: Beijing, China
+        follow: https://github.com/tiancixiong/
     highlight: monokai
     sidebar: left # sidebar position, options: left, right
     category_perExpand: false # enable article categories list per expanding
@@ -60,8 +60,8 @@ search:
 history_control: # make you wiki has history version control in page
     enable: true
     server_link: https://github.com # recommend use GitHub https://github.com
-    user: zthxxx
-    repertory: Wiki-site
+    user: tiancixiong
+    repertory: wiki-site
     branch: writing
 
 # Comment
